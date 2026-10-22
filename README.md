@@ -1,7 +1,7 @@
 # Housing Society Billing & Collections Analysis
 
 **Full-year analysis (Apr 2025 – Mar 2026)** of billing and collections across 8 housing societies in the Mumbai Metropolitan Region.
-
+ 
 ![Dashboard Preview](assets/dashboard-preview.png)  
 *Interactive Excel Dashboard – KPI cards, monthly trends, area/society breakdowns & charts*
 
